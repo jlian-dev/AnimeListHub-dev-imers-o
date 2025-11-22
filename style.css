@@ -31,7 +31,7 @@ body {
     /* O caminho da imagem deve ser relativo à pasta do projeto para funcionar em qualquer computador. */
     /* Exemplo: crie uma pasta 'images' e coloque seu arquivo de fundo nela. */
     /* O caminho deve ser relativo ao local do seu arquivo HTML. */
-    background-image: url("https://i.pinimg.com/736x/cd/d6/57/cdd657a07dc19d3046ca0d2e93e3e75a.jpg");
+    background-image: url("https://i.pinimg.com/736x/05/77/02/05770206236424b0c167f1570b5aa43f.jpg");
     background-size: cover; /* Faz a imagem cobrir todo o fundo */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
@@ -273,3 +273,4 @@ a:visited {
     overflow: hidden; /* Impede que a página principal role enquanto o modal está aberto. */
 
 }
+
